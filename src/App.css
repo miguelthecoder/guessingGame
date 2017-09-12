@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: #a00000;
+}
+.container  {
+  text-align: center;
+background-color: #ff0505;
+}
+input {
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+}
